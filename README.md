@@ -1,2 +1,2 @@
 # FIT_emaily
-JS_LEKCE4_ukol_FIT_emaily
+Vytvořte e-mailovou adresu pro studenty FIT ČVUT.
